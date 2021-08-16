@@ -1,0 +1,22 @@
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+brotlipy==0.7.0
+certifi==2021.5.30
+cffi @ file:///opt/concourse/worker/volumes/live/976f8942-f51d-4f0e-7352-2a10f0820d0e/volume/cffi_1625814703974/work
+cryptography @ file:///opt/concourse/worker/volumes/live/d5dda287-c0b3-4861-7262-fab05baa64dc/volume/cryptography_1616769284011/work
+idna @ file:///tmp/build/80754af9/idna_1622654382723/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+more-itertools @ file:///tmp/build/80754af9/more-itertools_1622818384463/work
+packaging @ file:///tmp/build/80754af9/packaging_1625611678980/work
+pluggy @ file:///opt/concourse/worker/volumes/live/a2630e20-8422-46fc-7347-f73294368851/volume/pluggy_1615976601840/work
+py @ file:///tmp/build/80754af9/py_1607971587848/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1608057966937/work
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+PySocks @ file:///opt/concourse/worker/volumes/live/112288ac-9cb0-4e73-768b-13baf4ca6419/volume/pysocks_1605305820043/work
+pytest==6.2.4
+selenium @ file:///opt/concourse/worker/volumes/live/9dcbb584-e669-4c23-547e-fda41ecd267d/volume/selenium_1614267791101/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1625084269274/work
+
+selenium~=3.141.0
